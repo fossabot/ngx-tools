@@ -169,7 +169,7 @@
     "ts-node": "^6.0.5",
     "tsickle": "^0.29.0",
     "tslint": "^5.9.1",
-    "typescript": "2.7.x",
+    "typescript": "2.9.x",
     "validate-commit-msg": "^2.14.0"
   }
 }
